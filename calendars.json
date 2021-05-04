@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "lang": "ru",
+      "country": "ru",
+      "calendars": ["url1", "url2"]
+    }
+  ]
+}
