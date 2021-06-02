@@ -4,10 +4,10 @@
       "id": "ru_RU",
       "lang": "ru",
       "country": "ru",
+      "version": "1.0",
       "data": [
         {
           "id": 0,
-          "version": "1.0",
           "meta": "1vab40rhch7nlhe2at7kv46lso&c69a79ea7edeb717346cb0e5640d1a2a",
           "name": "Государственные праздники России"
         }
