@@ -1,10 +1,10 @@
 {
+  "version": "1.0",
   "data": [
     {
       "id": "ru_RU",
       "lang": "ru",
       "country": "ru",
-      "version": "1.0",
       "data": [
         {
           "id": 0,
